@@ -1,5 +1,4 @@
-For easy reference, here are the rotor wirings.  We invite you to consider 
-how to make use of this to make implementation of the rotors easy.
+For easy reference, here are the rotor wirings.
 
 First, as a mapping between input characters and output characters:
 
